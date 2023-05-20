@@ -22,7 +22,7 @@ Desktop View
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/responsive-landing-using-css-flexbox-z5iLe1rBNJ)
 - Live Site URL: [https://animeshack.github.io/qr-code-components](https://animeshack.github.io/qr-code-components/)
 
 ## My process
