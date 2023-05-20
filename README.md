@@ -16,13 +16,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./images/Screenshot%202023-05-20%20at%2021-34-43%20Frontend%20Mentor%20QR%20code%20component.png)
+![](./images/Screenshot%202023-05-21%20at%2000-28-59%20Frontend%20Mentor%20QR%20code%20component.png)
 Desktop View
 
 
 ### Links
 
-- Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/responsive-landing-using-css-flexbox-z5iLe1rBNJ)
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-main](https://www.frontendmentor.io/solutions/responsive-landing-using-css-flexbox-z5iLe1rBNJ)
 - Live Site URL: [https://animeshack.github.io/qr-code-components](https://animeshack.github.io/qr-code-components/)
 
 ## My process
